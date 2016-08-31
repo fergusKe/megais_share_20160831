@@ -1,0 +1,10 @@
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100px;
+  height: 100px;
+  background: #ccc;
+  -webkit-transition: .3;
+  transition: .3;
+  opacity: .1; }
